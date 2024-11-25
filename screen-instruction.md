@@ -17,4 +17,4 @@
 Скриншот-1 к заданию 1:
 ![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
 ![Скриншот-2](https://github.com/travickiy67/travickiy67homework/commit/fa3de11bbc18b6257ad55b96a76380b8d57c90c8)
-
+![Скриншот-2](https://github.com/travickiy67/travickiy67homework/blod/main/img/'Снимок экрана 2024-11-25 133233.png')
