@@ -43,8 +43,25 @@
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
-`![alt text](https://github.com/username/reponame/blob/branch/path/image.png)`
- правда я написал 2 строки но комит один  
+Скрин 1.1  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.1.png)`  
+Скрин 1.2  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.2.png)`  
+Скрин 1.3  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.3.png)`  
+Скрин 1.4  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.4.png)`  
+Скрин 1.5  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.5.png)`  
+Скрин 1.6  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.6.png)`  
+Скрин 1.7  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.7.png)`  
+Скрин 1.8  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.8.png)`  
+Скрин 1.9  
+`![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.9.png)`  
+ Превый раз столкнулся с github, надеюсь , что правильно  
 https://github.com/travickiy67/git?tab=readme-ov-file#commit-2 
 
 ---
