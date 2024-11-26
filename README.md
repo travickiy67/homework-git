@@ -63,7 +63,7 @@
 Скрин 1.9  
 ![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img1.9.png)  
  Превый раз столкнулся с github, надеюсь , что правильно  
-https://github.com/travickiy67/git/788960e84f8a4b31bae3479b0f10d97b577069f2 
+https://github.com/travickiy67/git/commit/788960e84f8a4b31bae3479b0f10d97b577069f2 
 
 ---
 
