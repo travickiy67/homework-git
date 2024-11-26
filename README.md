@@ -77,6 +77,15 @@ https://github.com/travickiy67/git?tab=readme-ov-file#commit-2
 4. Сделайте коммит и пуш.
 5. В качестве ответа укажите ссылку на этот коммит в вашем md-файле с решением.  
 ![Название скриншота 2](ссылка на скриншот 2)`  
+Скрин 2.1  
+![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img2.1.png)  
+Скрин 2.2  
+![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img2.2.png)  
+Скрин 2.3  
+![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img2.3.png)  
+Скрин 2.4  
+![alt text](https://github.com/travickiy67/homework-git/blob/main/img/img2.4.png)  
+
 https://github.com/travickiy67/git/blob/main/.gitignore  
 
 
@@ -106,22 +115,7 @@ https://github.com/travickiy67/git/blob/main/.gitignore
 
 ### Задание 4
 
-`Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
